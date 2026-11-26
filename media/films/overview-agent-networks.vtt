@@ -1,0 +1,79 @@
+WEBVTT
+
+00:00:00.500 --> 00:00:04.160
+INFERIVA for agent networks and mobile wallets: an overview.
+
+00:00:05.167 --> 00:00:09.979
+Your customers rarely come to you. They go to an agent: a kiosk, a shop,
+
+00:00:09.979 --> 00:00:13.053
+a market stall. Every agent acts in your name,
+
+00:00:13.053 --> 00:00:16.729
+and every transaction is small enough to look ordinary.
+
+00:00:17.733 --> 00:00:23.589
+Monitoring designed for bank accounts sees thousands of small deposits and finds nothing.
+
+00:00:23.589 --> 00:00:27.865
+The risk sits in patterns across agents, wallets and time of day.
+
+00:00:28.867 --> 00:00:31.656
+INFERIVA starts with the network itself.
+
+00:00:31.656 --> 00:00:35.841
+Every agent and super agent is on record, with its location,
+
+00:00:35.841 --> 00:00:38.352
+its status and its daily cash limit.
+
+00:00:39.567 --> 00:00:43.763
+Detection scenarios are written for agent networks: volume spikes,
+
+00:00:43.763 --> 00:00:47.704
+round trips through the same agent, structuring across agents,
+
+00:00:47.704 --> 00:00:50.565
+and dormant wallets that suddenly move money.
+
+00:00:50.565 --> 00:00:53.108
+Each threshold is tuned to your network.
+
+00:00:54.300 --> 00:00:56.933
+Each alert shows why it fired: the rule,
+
+00:00:56.933 --> 00:01:01.540
+the agent's behaviour against its own baseline, and against its peers.
+
+00:01:01.540 --> 00:01:04.765
+So an analyst can see the one agent that changed.
+
+00:01:05.967 --> 00:01:08.750
+For fraud, a transaction is scored as it happens,
+
+00:01:08.750 --> 00:01:11.987
+and can be stepped up or stopped before the money leaves,
+
+00:01:11.987 --> 00:01:14.259
+with every factor in the decision shown.
+
+00:01:15.467 --> 00:01:19.180
+Fraud and anti-money laundering look at the same customer.
+
+00:01:19.180 --> 00:01:24.109
+A fraud alert shows the customer's money laundering risk, and any open cases.
+
+00:01:25.300 --> 00:01:29.590
+When a report is needed, it is drafted from the case, approved and filed,
+
+00:01:29.590 --> 00:01:32.411
+and tracked until the regulator acknowledges it.
+
+00:01:33.600 --> 00:01:38.729
+Every agent, every alert, every fraud decision and every report, on one record.
+
+00:01:38.729 --> 00:01:43.404
+So when the regulator asks about one agent, the answer is already there.
+
+00:01:44.400 --> 00:01:47.271
+To see it for your institution, talk to INFERIVA.

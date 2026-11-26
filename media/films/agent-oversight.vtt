@@ -1,0 +1,103 @@
+WEBVTT
+
+00:00:00.027 --> 00:00:03.926
+Savannah Payment Service Bank runs a network
+of agents.
+
+00:00:03.926 --> 00:00:07.896
+Every deposit an agent takes can look normal
+on its own.
+
+00:00:07.896 --> 00:00:13.779
+This is an agent oversight evaluation, run on
+the platform, on the bank's own data.
+
+00:00:13.779 --> 00:00:16.473
+The data in this film is illustrative.
+
+00:00:17.181 --> 00:00:20.505
+Savannah is onboarded as an evaluation
+engagement.
+
+00:00:20.505 --> 00:00:26.089
+Its due diligence is approved by a second
+person, its data is processed under a data
+
+00:00:26.089 --> 00:00:32.006
+processing agreement, and the term and the
+deletion date are set before any data arrives.
+
+00:00:32.006 --> 00:00:35.995
+Our external-manager film walks through each
+of those steps.
+
+00:00:37.595 --> 00:00:42.823
+The payment service bank analyst imports the
+agent register in one file.
+
+00:00:42.823 --> 00:00:44.203
+Eleven agents load.
+
+00:00:44.203 --> 00:00:50.085
+One row has no agent identifier, so it is
+rejected, with its line and the reason.
+
+00:00:50.085 --> 00:00:52.118
+Nothing is dropped silently.
+
+00:00:54.895 --> 00:01:00.901
+The bank's data engineer loads nine customers
+and thirty-six deposits through the upload
+
+00:01:00.901 --> 00:01:01.379
+centre.
+
+00:01:04.895 --> 00:01:09.324
+The anti-money-laundering analyst runs
+monitoring over the day.
+
+00:01:09.324 --> 00:01:13.120
+Thirty-six transactions are evaluated, and
+none fails.
+
+00:01:13.845 --> 00:01:14.542
+One alert.
+
+00:01:14.542 --> 00:01:18.234
+Nine agents in one locality took thirty-six
+deposits.
+
+00:01:18.234 --> 00:01:24.504
+Each was below five percent of the reporting
+threshold, so none was reportable on its own.
+
+00:01:24.504 --> 00:01:27.709
+Together they came to one and a half times it.
+
+00:01:27.709 --> 00:01:31.401
+A view of one account, or one agent, never
+sees this.
+
+00:01:32.095 --> 00:01:34.887
+The analyst downloads the findings pack:
+
+00:01:34.887 --> 00:01:40.541
+every agent ranked by risk, the network first,
+with the transactions behind each.
+
+00:01:40.541 --> 00:01:41.797
+Savannah keeps it.
+
+00:01:41.797 --> 00:01:44.310
+Inferiva keeps only its fingerprint.
+
+00:01:45.095 --> 00:01:50.315
+If Savannah subscribes, the data stays and
+monitoring carries on from here.
+
+00:01:50.315 --> 00:01:54.212
+If it does not, its data is deleted, with a
+certificate.
+
+00:01:54.212 --> 00:01:57.135
+Inferiva files nothing with any authority.
